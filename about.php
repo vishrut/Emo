@@ -35,7 +35,7 @@
   		</div-->
 		<ul class="left">
         <li>
-          <a href="index.html">Home</a>
+          <a href="index.php">Home</a>
         </li>
 		
         
